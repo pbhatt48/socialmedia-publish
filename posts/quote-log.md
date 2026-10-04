@@ -59,3 +59,4 @@ each new post: `- "<quote>" — <Name>`.
 - "You are neither right nor wrong because the crowd disagrees with you. You are right because your data and reasoning are right." — Benjamin Graham
 - "Second-level thinking is deep, complex and convoluted." — Howard Marks
 - "After ten years on the job, a CEO whose company annually retains earnings equal to 10% of net worth will have been responsible for the deployment of more than 60% of all the capital at work in the business." — Warren Buffett
+- "More money has probably been lost by investors holding a stock they really did not want until they could ‘at least come out even’ than from any other single reason." — Philip A. Fisher

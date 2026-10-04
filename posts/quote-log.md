@@ -57,3 +57,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Rule No. 1: Most things will prove to be cyclical. Rule No. 2: Some of the greatest opportunities for gain and loss come when other people forget Rule No. 1." — Howard Marks
 - "Over the long term, it’s hard for a stock to earn a much better return than the business which underlies it earns." — Charlie Munger
 - "You are neither right nor wrong because the crowd disagrees with you. You are right because your data and reasoning are right." — Benjamin Graham
+- "Second-level thinking is deep, complex and convoluted." — Howard Marks

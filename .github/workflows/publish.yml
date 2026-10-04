@@ -1,0 +1,57 @@
+name: Publish due posts
+
+on:
+  push:
+    branches: [main]
+    paths: ["posts/pending/**"]
+  schedule:
+    - cron: "45 * * * *" # safety net: retry anything a push run missed
+  workflow_dispatch:
+
+# Never run two publishers at once, or the same post could go out twice.
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install .
+
+      - name: Publish
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+          POSTS_DIR: posts
+          PUBLIC_MEDIA_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.sha }}/posts
+        run: |
+          instagram-mcp --publish-due | tee result.json
+          python -c "import json,sys; r=json.load(open('result.json')); sys.exit(any('error' in x for x in r))" \
+            || echo "PUBLISH_FAILED=1" >> "$GITHUB_ENV"
+
+      - name: Commit published posts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A posts
+          git diff --cached --quiet && exit 0
+          git commit -m "Move published posts to posts/published"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
+
+      - name: Fail if any post failed
+        if: env.PUBLISH_FAILED == '1'
+        run: exit 1

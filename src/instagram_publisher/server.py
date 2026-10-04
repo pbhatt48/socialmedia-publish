@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import logging
 from datetime import datetime, timezone
 
 from mcp.server.fastmcp import FastMCP
@@ -12,6 +13,9 @@ from .instagram import InstagramClient, InstagramError
 from .queue import PostQueue, QueueError
 
 mcp = FastMCP("instagram-publisher")
+
+# httpx logs every request URL at INFO, and those URLs carry the access token.
+logging.getLogger("httpx").setLevel(logging.WARNING)
 
 _config: Config | None = None
 _client: InstagramClient | None = None

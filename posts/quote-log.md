@@ -1,0 +1,47 @@
+# Quote log
+
+Every quote already used on the account, oldest first. The posting routine
+reads this before picking a quote (never repeat one) and appends a line for
+each new post: `- "<quote>" — <Name>`.
+
+- "Our favorite holding period is forever." — Warren Buffett
+- "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price." — Warren Buffett
+- "Price is what you pay; value is what you get." — Warren Buffett
+- "Invert, always invert." — Charlie Munger
+- "The investor's chief problem—and even his worst enemy—is likely to be himself." — Benjamin Graham
+- "You can't predict. You can prepare." — Howard Marks
+- "Time is the friend of the wonderful business, the enemy of the mediocre." — Warren Buffett
+- "After all, you only find out who is swimming naked when the tide goes out." — Warren Buffett
+- "If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes." — Warren Buffett
+- "Confronted with a like challenge to distill the secret of sound investment into three words, we venture the motto, Margin of Safety." — Benjamin Graham
+- "We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful." — Warren Buffett
+- "Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks." — Warren Buffett
+- "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent." — Charlie Munger
+- "Mr. Market is there to serve you, not to guide you." — Warren Buffett
+- "Know what you own, and know why you own it." — Peter Lynch
+- "If the job has been correctly done when a common stock is purchased, the time to sell it is—almost never." — Philip Fisher
+- "Heads, I win; tails, I don't lose much." — Mohnish Pabrai
+- "Behind every stock is a company. Find out what it's doing." — Peter Lynch
+- "Basically, price fluctuations have only one significant meaning for the true investor. They provide him with an opportunity to buy wisely when prices fall sharply and to sell wisely when they advance a great deal." — Benjamin Graham
+- "This just in: you can't take the same actions as everyone else and expect to outperform." — Howard Marks
+- "Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down." — Warren Buffett
+- "A margin of safety is achieved when securities are purchased at prices sufficiently below underlying value to allow for human error, bad luck, or extreme volatility in a complex, unpredictable and rapidly changing world." — Seth Klarman
+- "Lethargy bordering on sloth remains the cornerstone of our investment style." — Warren Buffett
+- "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines." — Charlie Munger
+- "Investors should remember that excitement and expenses are their enemies." — Warren Buffett
+- "Few bets, big bets, infrequent bets." — Mohnish Pabrai
+- "Beware the investment activity that produces applause; the great moves are usually greeted by yawns." — Warren Buffett
+- "Spend each day trying to be a little wiser than you were when you woke up." — Charlie Munger
+- "Games are won by players who focus on the playing field – not by those whose eyes are glued to the scoreboard." — Warren Buffett
+- "Never invest in any idea you can't illustrate with a crayon." — Peter Lynch
+- "Being too far ahead of your time is indistinguishable from being wrong." — Howard Marks
+- "You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital." — Warren Buffett
+- "The riskiest thing in the world is the widespread belief that there's no risk." — Howard Marks
+- "We will continue to ignore political and economic forecasts, which are an expensive distraction for many investors and businessmen." — Warren Buffett
+- "Investment is most intelligent when it is most businesslike." — Benjamin Graham
+- "Beware of geeks bearing formulas." — Warren Buffett
+- "The key to making money in stocks is not to get scared out of them." — Peter Lynch
+- "It's optimism that is the enemy of the rational buyer." — Warren Buffett
+- "If we avoid the losers, the winners will take care of themselves." — Howard Marks
+- "Forming macro opinions or listening to the macro or market predictions of others is a waste of time." — Warren Buffett
+- "The investor with a portfolio of sound stocks should expect their prices to fluctuate and should neither be concerned by sizable declines nor become excited by sizable advances." — Benjamin Graham

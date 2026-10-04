@@ -132,6 +132,17 @@ without opening Claude, run the same code from cron:
 */15 * * * * cd /full/path/to/socialmedia-publish && .venv/bin/instagram-mcp --publish-due >> publish.log 2>&1
 ```
 
+### Publishing from GitHub Actions
+
+`.github/workflows/publish.yml` publishes due posts whenever a post folder is
+pushed to `posts/pending/` on `main` (and hourly as a retry), then commits the
+moved folder back. Images are served from `raw.githubusercontent.com`, so the
+repo must be public. Add `INSTAGRAM_ACCESS_TOKEN` (and optionally
+`INSTAGRAM_USER_ID`) under **Settings → Secrets and variables → Actions**.
+
+`studio/` renders the quote cards (`python studio/render.py card.json art.py
+post.jpg`), and `posts/quote-log.md` lists every quote already used.
+
 ## Development
 
 ```bash

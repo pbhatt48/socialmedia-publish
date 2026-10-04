@@ -51,3 +51,4 @@ each new post: `- "<quote>" — <Name>`.
 - "I think I’ve been in the top 5% of my age cohort all my life in understanding the power of incentives, and all my life I’ve underestimated it." — Charlie Munger
 - "Your goal as an investor should simply be to purchase, at a rational price, a part interest in an easily-understandable business whose earnings are virtually certain to be materially higher five, ten and twenty years from now." — Warren Buffett
 - "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return. Operations not meeting these requirements are speculative." — Benjamin Graham
+- "Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them." — Warren Buffett

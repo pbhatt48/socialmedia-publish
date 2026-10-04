@@ -53,3 +53,4 @@ each new post: `- "<quote>" — <Name>`.
 - "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return. Operations not meeting these requirements are speculative." — Benjamin Graham
 - "Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them." — Warren Buffett
 - "To achieve satisfactory investment results is easier than most people realize; to achieve superior results is harder than it looks." — Benjamin Graham
+- "Severe change and exceptional returns usually don’t mix." — Warren Buffett

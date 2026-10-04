@@ -137,8 +137,15 @@ def main() -> None:
         action="store_true",
         help="publish scheduled posts that are due and exit (for cron) instead of running the MCP server",
     )
+    parser.add_argument(
+        "--check",
+        action="store_true",
+        help="check the access token and list pending posts, then exit",
+    )
     args = parser.parse_args()
-    if args.publish_due:
+    if args.check:
+        print(json.dumps({"account": account_status(), "pending_posts": list_pending_posts()}, indent=2))
+    elif args.publish_due:
         print(json.dumps(publish_due_posts(), indent=2))
     else:
         mcp.run()

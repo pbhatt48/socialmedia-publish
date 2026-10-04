@@ -36,6 +36,7 @@ cd socialmedia-publish
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e .
 cp .env.example .env    # then paste your token into .env
+instagram-mcp --check   # should print your username and posting limit
 ```
 
 ## 3. Connect it to Claude

@@ -45,3 +45,4 @@ each new post: `- "<quote>" — <Name>`.
 - "If we avoid the losers, the winners will take care of themselves." — Howard Marks
 - "Forming macro opinions or listening to the macro or market predictions of others is a waste of time." — Warren Buffett
 - "The investor with a portfolio of sound stocks should expect their prices to fluctuate and should neither be concerned by sizable declines nor become excited by sizable advances." — Benjamin Graham
+- "You’ve got to have models in your head. And you’ve got to array your experience — both vicarious and direct — on this latticework of models." — Charlie Munger

@@ -54,3 +54,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them." — Warren Buffett
 - "To achieve satisfactory investment results is easier than most people realize; to achieve superior results is harder than it looks." — Benjamin Graham
 - "Severe change and exceptional returns usually don’t mix." — Warren Buffett
+- "Rule No. 1: Most things will prove to be cyclical. Rule No. 2: Some of the greatest opportunities for gain and loss come when other people forget Rule No. 1." — Howard Marks

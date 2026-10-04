@@ -52,3 +52,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Your goal as an investor should simply be to purchase, at a rational price, a part interest in an easily-understandable business whose earnings are virtually certain to be materially higher five, ten and twenty years from now." — Warren Buffett
 - "An investment operation is one which, upon thorough analysis, promises safety of principal and an adequate return. Operations not meeting these requirements are speculative." — Benjamin Graham
 - "Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them." — Warren Buffett
+- "To achieve satisfactory investment results is easier than most people realize; to achieve superior results is harder than it looks." — Benjamin Graham

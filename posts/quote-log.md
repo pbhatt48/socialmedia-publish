@@ -47,3 +47,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The investor with a portfolio of sound stocks should expect their prices to fluctuate and should neither be concerned by sizable declines nor become excited by sizable advances." — Benjamin Graham
 - "You’ve got to have models in your head. And you’ve got to array your experience — both vicarious and direct — on this latticework of models." — Charlie Munger
 - "The person that turns over the most rocks wins the game." — Peter Lynch
+- "We think the very term “value investing” is redundant. What is “investing” if it is not the act of seeking value at least sufficient to justify the amount paid?" — Warren Buffett

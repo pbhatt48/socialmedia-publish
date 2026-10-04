@@ -64,3 +64,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Most investors are primarily oriented toward return, how much they can make, and pay little attention to risk, how much they can lose." — Seth Klarman
 - "For 240 years it’s been a terrible mistake to bet against America, and now is no time to start." — Warren Buffett
 - "The true investor scarcely ever is forced to sell his shares, and at all other times he is free to disregard the current price quotation." — Benjamin Graham
+- "For investors as a whole, returns decrease as motion increases." — Warren Buffett

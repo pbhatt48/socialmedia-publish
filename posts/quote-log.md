@@ -48,3 +48,4 @@ each new post: `- "<quote>" — <Name>`.
 - "You’ve got to have models in your head. And you’ve got to array your experience — both vicarious and direct — on this latticework of models." — Charlie Munger
 - "The person that turns over the most rocks wins the game." — Peter Lynch
 - "We think the very term “value investing” is redundant. What is “investing” if it is not the act of seeking value at least sufficient to justify the amount paid?" — Warren Buffett
+- "I think I’ve been in the top 5% of my age cohort all my life in understanding the power of incentives, and all my life I’ve underestimated it." — Charlie Munger

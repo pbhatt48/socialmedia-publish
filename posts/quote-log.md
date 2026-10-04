@@ -61,3 +61,4 @@ each new post: `- "<quote>" — <Name>`.
 - "After ten years on the job, a CEO whose company annually retains earnings equal to 10% of net worth will have been responsible for the deployment of more than 60% of all the capital at work in the business." — Warren Buffett
 - "More money has probably been lost by investors holding a stock they really did not want until they could ‘at least come out even’ than from any other single reason." — Philip A. Fisher
 - "A truly great business must have an enduring “moat” that protects excellent returns on invested capital." — Warren Buffett
+- "Most investors are primarily oriented toward return, how much they can make, and pay little attention to risk, how much they can lose." — Seth Klarman

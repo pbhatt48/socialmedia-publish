@@ -62,3 +62,4 @@ each new post: `- "<quote>" — <Name>`.
 - "More money has probably been lost by investors holding a stock they really did not want until they could ‘at least come out even’ than from any other single reason." — Philip A. Fisher
 - "A truly great business must have an enduring “moat” that protects excellent returns on invested capital." — Warren Buffett
 - "Most investors are primarily oriented toward return, how much they can make, and pay little attention to risk, how much they can lose." — Seth Klarman
+- "For 240 years it’s been a terrible mistake to bet against America, and now is no time to start." — Warren Buffett

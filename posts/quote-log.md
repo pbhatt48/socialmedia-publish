@@ -66,3 +66,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The true investor scarcely ever is forced to sell his shares, and at all other times he is free to disregard the current price quotation." — Benjamin Graham
 - "For investors as a whole, returns decrease as motion increases." — Warren Buffett
 - "Skepticism and pessimism aren’t synonymous. Skepticism calls for pessimism when optimism is excessive. But it also calls for optimism when pessimism is excessive." — Howard Marks
+- "It’s not given to human beings to have such talent that they can just know everything about everything all the time. But it is given to human beings who work hard at it—who look and sift the world for a mispriced bet—that they can occasionally find one." — Charlie Munger

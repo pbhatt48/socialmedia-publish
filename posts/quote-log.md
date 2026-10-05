@@ -68,3 +68,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Skepticism and pessimism aren’t synonymous. Skepticism calls for pessimism when optimism is excessive. But it also calls for optimism when pessimism is excessive." — Howard Marks
 - "It’s not given to human beings to have such talent that they can just know everything about everything all the time. But it is given to human beings who work hard at it—who look and sift the world for a mispriced bet—that they can occasionally find one." — Charlie Munger
 - "Growth benefits investors only when the business in point can invest at incremental returns that are enticing — in other words, only when each dollar used to finance the growth creates over a dollar of long-term market value." — Warren Buffett
+- "When somebody says, ‘Any idiot could run this joint,’ that’s a plus as far as I’m concerned, because sooner or later any idiot probably is going to be running it." — Peter Lynch

@@ -71,3 +71,4 @@ each new post: `- "<quote>" — <Name>`.
 - "When somebody says, ‘Any idiot could run this joint,’ that’s a plus as far as I’m concerned, because sooner or later any idiot probably is going to be running it." — Peter Lynch
 - "The primary test of managerial economic performance is the achievement of a high earnings rate on equity capital employed (without undue leverage, accounting gimmickry, etc.) and not the achievement of consistent gains in earnings per share." — Warren Buffett
 - "The stock market demands conviction as surely as it victimizes the unconvinced." — Peter Lynch
+- "Cash, though, is to a business as oxygen is to an individual: never thought about when it is present, the only thing in mind when it is absent." — Warren Buffett

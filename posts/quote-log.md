@@ -73,3 +73,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The stock market demands conviction as surely as it victimizes the unconvinced." — Peter Lynch
 - "Cash, though, is to a business as oxygen is to an individual: never thought about when it is present, the only thing in mind when it is absent." — Warren Buffett
 - "In this business if you’re good, you’re right six times out of ten. You’re never going to be right nine times out of ten." — Peter Lynch
+- "Managers that always promise to ‘make the numbers’ will at some point be tempted to make up the numbers." — Warren Buffett

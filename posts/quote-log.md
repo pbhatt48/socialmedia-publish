@@ -72,3 +72,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The primary test of managerial economic performance is the achievement of a high earnings rate on equity capital employed (without undue leverage, accounting gimmickry, etc.) and not the achievement of consistent gains in earnings per share." — Warren Buffett
 - "The stock market demands conviction as surely as it victimizes the unconvinced." — Peter Lynch
 - "Cash, though, is to a business as oxygen is to an individual: never thought about when it is present, the only thing in mind when it is absent." — Warren Buffett
+- "In this business if you’re good, you’re right six times out of ten. You’re never going to be right nine times out of ten." — Peter Lynch

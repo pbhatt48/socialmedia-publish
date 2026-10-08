@@ -75,3 +75,4 @@ each new post: `- "<quote>" — <Name>`.
 - "In this business if you’re good, you’re right six times out of ten. You’re never going to be right nine times out of ten." — Peter Lynch
 - "Managers that always promise to ‘make the numbers’ will at some point be tempted to make up the numbers." — Warren Buffett
 - "Investing is the intersection of economics and psychology." — Seth Klarman
+- "Every decade or so, dark clouds will fill the economic skies, and they will briefly rain gold. When downpours of that sort occur, it’s imperative that we rush outdoors carrying washtubs, not teaspoons." — Warren Buffett

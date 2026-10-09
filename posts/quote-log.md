@@ -77,3 +77,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Investing is the intersection of economics and psychology." — Seth Klarman
 - "Every decade or so, dark clouds will fill the economic skies, and they will briefly rain gold. When downpours of that sort occur, it’s imperative that we rush outdoors carrying washtubs, not teaspoons." — Warren Buffett
 - "Operations for profit should be based not on optimism but on arithmetic." — Benjamin Graham
+- "Nothing sedates rationality like large doses of effortless money." — Warren Buffett

@@ -78,3 +78,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Every decade or so, dark clouds will fill the economic skies, and they will briefly rain gold. When downpours of that sort occur, it’s imperative that we rush outdoors carrying washtubs, not teaspoons." — Warren Buffett
 - "Operations for profit should be based not on optimism but on arithmetic." — Benjamin Graham
 - "Nothing sedates rationality like large doses of effortless money." — Warren Buffett
+- "It’s not supposed to be easy. Anyone who finds it easy is stupid." — Charlie Munger

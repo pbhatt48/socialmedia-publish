@@ -80,3 +80,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Nothing sedates rationality like large doses of effortless money." — Warren Buffett
 - "It’s not supposed to be easy. Anyone who finds it easy is stupid." — Charlie Munger
 - "Paradoxically, when “dumb” money acknowledges its limitations, it ceases to be dumb." — Warren Buffett
+- "Owning stocks is like having children — don’t get involved with more than you can handle." — Peter Lynch

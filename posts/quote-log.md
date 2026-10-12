@@ -83,3 +83,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Owning stocks is like having children — don’t get involved with more than you can handle." — Peter Lynch
 - "Lose money for the firm, and I will be understanding; lose a shred of reputation for the firm, and I will be ruthless." — Warren Buffett
 - "Investing is a popularity contest, and the most dangerous thing is to buy something at the peak of its popularity." — Howard Marks
+- "History tells us that leverage all too often produces zeroes, even when it is employed by very smart people." — Warren Buffett

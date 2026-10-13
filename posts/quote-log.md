@@ -85,3 +85,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Investing is a popularity contest, and the most dangerous thing is to buy something at the peak of its popularity." — Howard Marks
 - "History tells us that leverage all too often produces zeroes, even when it is employed by very smart people." — Warren Buffett
 - "The safest way to try to get what you want is to try to deserve what you want." — Charlie Munger
+- "Keep things simple and don’t swing for the fences." — Warren Buffett

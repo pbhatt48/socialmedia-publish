@@ -86,3 +86,4 @@ each new post: `- "<quote>" — <Name>`.
 - "History tells us that leverage all too often produces zeroes, even when it is employed by very smart people." — Warren Buffett
 - "The safest way to try to get what you want is to try to deserve what you want." — Charlie Munger
 - "Keep things simple and don’t swing for the fences." — Warren Buffett
+- "Obvious prospects for physical growth in a business do not translate into obvious profits for investors." — Benjamin Graham

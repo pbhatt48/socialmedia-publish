@@ -89,3 +89,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Obvious prospects for physical growth in a business do not translate into obvious profits for investors." — Benjamin Graham
 - "Derivatives are financial weapons of mass destruction, carrying dangers that, while now latent, are potentially lethal." — Warren Buffett
 - "In the real world, things generally fluctuate between ‘pretty good’ and ‘not so hot.’ But in the world of investing, perception often swings from ‘flawless’ to ‘hopeless.’" — Howard Marks
+- "You can’t produce a baby in one month by getting nine women pregnant." — Warren Buffett

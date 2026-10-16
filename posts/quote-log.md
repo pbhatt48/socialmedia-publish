@@ -91,3 +91,4 @@ each new post: `- "<quote>" — <Name>`.
 - "In the real world, things generally fluctuate between ‘pretty good’ and ‘not so hot.’ But in the world of investing, perception often swings from ‘flawless’ to ‘hopeless.’" — Howard Marks
 - "You can’t produce a baby in one month by getting nine women pregnant." — Warren Buffett
 - "Ultimately, nothing should be more important to investors than the ability to sleep soundly at night." — Seth Klarman
+- "Good jockeys will do well on good horses, but not on broken-down nags." — Warren Buffett

@@ -92,3 +92,4 @@ each new post: `- "<quote>" — <Name>`.
 - "You can’t produce a baby in one month by getting nine women pregnant." — Warren Buffett
 - "Ultimately, nothing should be more important to investors than the ability to sleep soundly at night." — Seth Klarman
 - "Good jockeys will do well on good horses, but not on broken-down nags." — Warren Buffett
+- "Another thing I think should be avoided is extremely intense ideology because it cabbages up one’s mind." — Charlie Munger

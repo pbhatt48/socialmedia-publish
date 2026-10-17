@@ -93,3 +93,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Ultimately, nothing should be more important to investors than the ability to sleep soundly at night." — Seth Klarman
 - "Good jockeys will do well on good horses, but not on broken-down nags." — Warren Buffett
 - "Another thing I think should be avoided is extremely intense ideology because it cabbages up one’s mind." — Charlie Munger
+- "Although our form is corporate, our attitude is partnership." — Warren Buffett

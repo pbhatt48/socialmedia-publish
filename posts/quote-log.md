@@ -95,3 +95,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Another thing I think should be avoided is extremely intense ideology because it cabbages up one’s mind." — Charlie Munger
 - "Although our form is corporate, our attitude is partnership." — Warren Buffett
 - "Far more money has been lost by investors preparing for corrections, or trying to anticipate corrections, than has been lost in corrections themselves." — Peter Lynch
+- "The worst sort of business is one that grows rapidly, requires significant capital to engender the growth, and then earns little or no money. Think airlines." — Warren Buffett

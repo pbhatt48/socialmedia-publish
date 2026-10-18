@@ -94,3 +94,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Good jockeys will do well on good horses, but not on broken-down nags." — Warren Buffett
 - "Another thing I think should be avoided is extremely intense ideology because it cabbages up one’s mind." — Charlie Munger
 - "Although our form is corporate, our attitude is partnership." — Warren Buffett
+- "Far more money has been lost by investors preparing for corrections, or trying to anticipate corrections, than has been lost in corrections themselves." — Peter Lynch

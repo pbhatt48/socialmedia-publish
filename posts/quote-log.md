@@ -97,3 +97,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Far more money has been lost by investors preparing for corrections, or trying to anticipate corrections, than has been lost in corrections themselves." — Peter Lynch
 - "The worst sort of business is one that grows rapidly, requires significant capital to engender the growth, and then earns little or no money. Think airlines." — Warren Buffett
 - "Your investor’s edge is not something you get from Wall Street experts. It’s something you already have." — Peter Lynch
+- "Most investors, both institutional and individual, will find that the best way to own common stocks is through an index fund that charges minimal fees." — Warren Buffett

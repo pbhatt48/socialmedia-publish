@@ -99,3 +99,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Your investor’s edge is not something you get from Wall Street experts. It’s something you already have." — Peter Lynch
 - "Most investors, both institutional and individual, will find that the best way to own common stocks is through an index fund that charges minimal fees." — Warren Buffett
 - "Does the company have a management of unquestionable integrity?" — Philip A. Fisher
+- "Any business craving of the leader, however foolish, will be quickly supported by detailed rate-of-return and strategic studies prepared by his troops." — Warren Buffett

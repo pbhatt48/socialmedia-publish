@@ -101,3 +101,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Does the company have a management of unquestionable integrity?" — Philip A. Fisher
 - "Any business craving of the leader, however foolish, will be quickly supported by detailed rate-of-return and strategic studies prepared by his troops." — Warren Buffett
 - "If the job has been correctly done when a common stock is purchased, the time to sell it is—almost never." — Philip A. Fisher
+- "The function of the margin of safety is, in essence, that of rendering unnecessary an accurate estimate of the future." — Benjamin Graham

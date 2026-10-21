@@ -100,3 +100,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Most investors, both institutional and individual, will find that the best way to own common stocks is through an index fund that charges minimal fees." — Warren Buffett
 - "Does the company have a management of unquestionable integrity?" — Philip A. Fisher
 - "Any business craving of the leader, however foolish, will be quickly supported by detailed rate-of-return and strategic studies prepared by his troops." — Warren Buffett
+- "If the job has been correctly done when a common stock is purchased, the time to sell it is—almost never." — Philip A. Fisher

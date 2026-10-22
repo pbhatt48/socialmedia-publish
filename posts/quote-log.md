@@ -103,3 +103,4 @@ each new post: `- "<quote>" — <Name>`.
 - "If the job has been correctly done when a common stock is purchased, the time to sell it is—almost never." — Philip A. Fisher
 - "The function of the margin of safety is, in essence, that of rendering unnecessary an accurate estimate of the future." — Benjamin Graham
 - "Generally speaking, envy, resentment, revenge and self-pity are disastrous modes of thought." — Charlie Munger
+- "The market, like the Lord, helps those who help themselves. But, unlike the Lord, the market does not forgive those who know not what they do." — Warren Buffett

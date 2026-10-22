@@ -102,3 +102,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Any business craving of the leader, however foolish, will be quickly supported by detailed rate-of-return and strategic studies prepared by his troops." — Warren Buffett
 - "If the job has been correctly done when a common stock is purchased, the time to sell it is—almost never." — Philip A. Fisher
 - "The function of the margin of safety is, in essence, that of rendering unnecessary an accurate estimate of the future." — Benjamin Graham
+- "Generally speaking, envy, resentment, revenge and self-pity are disastrous modes of thought." — Charlie Munger

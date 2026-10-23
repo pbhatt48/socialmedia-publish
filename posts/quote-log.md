@@ -105,3 +105,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Generally speaking, envy, resentment, revenge and self-pity are disastrous modes of thought." — Charlie Munger
 - "The market, like the Lord, helps those who help themselves. But, unlike the Lord, the market does not forgive those who know not what they do." — Warren Buffett
 - "There’s a big difference between probability and outcome. Probable things fail to happen—and improbable things happen—all the time." — Howard Marks
+- "Understanding both the power of compound interest and the difficulty of getting it is the heart and soul of understanding a lot of things." — Charlie Munger

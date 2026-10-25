@@ -109,3 +109,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Charlie and I cannot promise you results. But we can guarantee that your financial fortunes will move in lockstep with ours for whatever period of time you elect to be our partner." — Warren Buffett
 - "The p/e ratio of any company that’s fairly priced will equal its growth rate." — Peter Lynch
 - "The business ‘grapevine’ is a remarkable thing." — Philip A. Fisher
+- "When companies with outstanding businesses and comfortable financial positions find their shares selling far below intrinsic value in the marketplace, no alternative action can benefit shareholders as surely as repurchases." — Warren Buffett

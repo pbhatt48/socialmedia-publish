@@ -110,3 +110,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The p/e ratio of any company that’s fairly priced will equal its growth rate." — Peter Lynch
 - "The business ‘grapevine’ is a remarkable thing." — Philip A. Fisher
 - "When companies with outstanding businesses and comfortable financial positions find their shares selling far below intrinsic value in the marketplace, no alternative action can benefit shareholders as surely as repurchases." — Warren Buffett
+- "It’s not given to human beings to have such talent that they can just know everything about everything all the time. But it is given to human beings who work hard at it—who look and sift the world for a mispriced bet—that they can occasionally find one." — Charlie Munger

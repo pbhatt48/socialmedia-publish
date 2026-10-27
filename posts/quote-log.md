@@ -112,3 +112,4 @@ each new post: `- "<quote>" — <Name>`.
 - "When companies with outstanding businesses and comfortable financial positions find their shares selling far below intrinsic value in the marketplace, no alternative action can benefit shareholders as surely as repurchases." — Warren Buffett
 - "It’s not given to human beings to have such talent that they can just know everything about everything all the time. But it is given to human beings who work hard at it—who look and sift the world for a mispriced bet—that they can occasionally find one." — Charlie Munger
 - "Focus on the future productivity of the asset you are considering. If you don’t feel comfortable making a rough estimate of the asset’s future earnings, just forget it and move on." — Warren Buffett
+- "Observation over many years has taught us that the chief losses to investors come from the purchase of low-quality securities at times of favorable business conditions." — Benjamin Graham

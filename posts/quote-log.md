@@ -113,3 +113,4 @@ each new post: `- "<quote>" — <Name>`.
 - "It’s not given to human beings to have such talent that they can just know everything about everything all the time. But it is given to human beings who work hard at it—who look and sift the world for a mispriced bet—that they can occasionally find one." — Charlie Munger
 - "Focus on the future productivity of the asset you are considering. If you don’t feel comfortable making a rough estimate of the asset’s future earnings, just forget it and move on." — Warren Buffett
 - "Observation over many years has taught us that the chief losses to investors come from the purchase of low-quality securities at times of favorable business conditions." — Benjamin Graham
+- "Never forget the six-foot-tall man who drowned crossing the stream that was five feet deep on average." — Howard Marks

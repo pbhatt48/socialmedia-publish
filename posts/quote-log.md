@@ -115,3 +115,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Observation over many years has taught us that the chief losses to investors come from the purchase of low-quality securities at times of favorable business conditions." — Benjamin Graham
 - "Never forget the six-foot-tall man who drowned crossing the stream that was five feet deep on average." — Howard Marks
 - "Put together a portfolio of companies whose aggregate earnings march upward over the years, and so also will the portfolio’s market value." — Warren Buffett
+- "The rate of return sought should be dependent, rather, on the amount of intelligent effort the investor is willing and able to bring to bear on his task." — Benjamin Graham

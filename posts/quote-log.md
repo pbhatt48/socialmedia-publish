@@ -117,3 +117,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Put together a portfolio of companies whose aggregate earnings march upward over the years, and so also will the portfolio’s market value." — Warren Buffett
 - "The rate of return sought should be dependent, rather, on the amount of intelligent effort the investor is willing and able to bring to bear on his task." — Benjamin Graham
 - "Investment success doesn’t come from ‘buying good things,’ but rather from ‘buying things well.’" — Howard Marks
+- "Intrinsic value is an all-important concept that offers the only logical approach to evaluating the relative attractiveness of investments and businesses." — Warren Buffett

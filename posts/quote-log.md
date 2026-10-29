@@ -116,3 +116,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Never forget the six-foot-tall man who drowned crossing the stream that was five feet deep on average." — Howard Marks
 - "Put together a portfolio of companies whose aggregate earnings march upward over the years, and so also will the portfolio’s market value." — Warren Buffett
 - "The rate of return sought should be dependent, rather, on the amount of intelligent effort the investor is willing and able to bring to bear on his task." — Benjamin Graham
+- "Investment success doesn’t come from ‘buying good things,’ but rather from ‘buying things well.’" — Howard Marks

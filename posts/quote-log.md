@@ -118,3 +118,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The rate of return sought should be dependent, rather, on the amount of intelligent effort the investor is willing and able to bring to bear on his task." — Benjamin Graham
 - "Investment success doesn’t come from ‘buying good things,’ but rather from ‘buying things well.’" — Howard Marks
 - "Intrinsic value is an all-important concept that offers the only logical approach to evaluating the relative attractiveness of investments and businesses." — Warren Buffett
+- "The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you." — Charlie Munger

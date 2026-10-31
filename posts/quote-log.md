@@ -121,3 +121,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you." — Charlie Munger
 - "In the business world, unfortunately, the rear-view mirror is always clearer than the windshield." — Warren Buffett
 - "Gentlemen who prefer bonds don’t know what they’re missing." — Peter Lynch
+- "To invest successfully, you need not understand beta, efficient markets, modern portfolio theory, option pricing or emerging markets. You may, in fact, be better off knowing nothing of these." — Warren Buffett

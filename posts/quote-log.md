@@ -120,3 +120,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Intrinsic value is an all-important concept that offers the only logical approach to evaluating the relative attractiveness of investments and businesses." — Warren Buffett
 - "The great lesson in microeconomics is to discriminate between when technology is going to help you and when it’s going to kill you." — Charlie Munger
 - "In the business world, unfortunately, the rear-view mirror is always clearer than the windshield." — Warren Buffett
+- "Gentlemen who prefer bonds don’t know what they’re missing." — Peter Lynch

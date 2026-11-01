@@ -122,3 +122,4 @@ each new post: `- "<quote>" — <Name>`.
 - "In the business world, unfortunately, the rear-view mirror is always clearer than the windshield." — Warren Buffett
 - "Gentlemen who prefer bonds don’t know what they’re missing." — Peter Lynch
 - "To invest successfully, you need not understand beta, efficient markets, modern portfolio theory, option pricing or emerging markets. You may, in fact, be better off knowing nothing of these." — Warren Buffett
+- "The trick of successful investors is to sell when they want to, not when they have to." — Seth Klarman

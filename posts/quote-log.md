@@ -123,3 +123,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Gentlemen who prefer bonds don’t know what they’re missing." — Peter Lynch
 - "To invest successfully, you need not understand beta, efficient markets, modern portfolio theory, option pricing or emerging markets. You may, in fact, be better off knowing nothing of these." — Warren Buffett
 - "The trick of successful investors is to sell when they want to, not when they have to." — Seth Klarman
+- "So if you wait for the robins, spring will be over." — Warren Buffett

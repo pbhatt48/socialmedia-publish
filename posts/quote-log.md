@@ -125,3 +125,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The trick of successful investors is to sell when they want to, not when they have to." — Seth Klarman
 - "So if you wait for the robins, spring will be over." — Warren Buffett
 - "Value investing requires a great deal of hard work, unusually strict discipline, and a long-term investment horizon." — Seth Klarman
+- "Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks." — Warren Buffett

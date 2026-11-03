@@ -126,3 +126,4 @@ each new post: `- "<quote>" — <Name>`.
 - "So if you wait for the robins, spring will be over." — Warren Buffett
 - "Value investing requires a great deal of hard work, unusually strict discipline, and a long-term investment horizon." — Seth Klarman
 - "Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks." — Warren Buffett
+- "The trick is not to learn to trust your gut feelings, but rather to discipline yourself to ignore them." — Peter Lynch

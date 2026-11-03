@@ -127,3 +127,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Value investing requires a great deal of hard work, unusually strict discipline, and a long-term investment horizon." — Seth Klarman
 - "Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks." — Warren Buffett
 - "The trick is not to learn to trust your gut feelings, but rather to discipline yourself to ignore them." — Peter Lynch
+- "Value investing is at its core the marriage of a contrarian streak and a calculator." — Seth Klarman

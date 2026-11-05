@@ -131,3 +131,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Our stay-put behavior reflects our view that the stock market serves as a relocation center at which money is moved from the active to the patient." — Warren Buffett
 - "Patient opportunism, waiting for bargains, is often your best strategy." — Howard Marks
 - "Predicting rain doesn’t count; building arks does." — Warren Buffett
+- "One lucky break, or one supremely shrewd decision—can we tell them apart?—may count for more than a lifetime of journeyman efforts." — Benjamin Graham

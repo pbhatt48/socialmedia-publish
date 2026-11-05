@@ -130,3 +130,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Value investing is at its core the marriage of a contrarian streak and a calculator." — Seth Klarman
 - "Our stay-put behavior reflects our view that the stock market serves as a relocation center at which money is moved from the active to the patient." — Warren Buffett
 - "Patient opportunism, waiting for bargains, is often your best strategy." — Howard Marks
+- "Predicting rain doesn’t count; building arks does." — Warren Buffett

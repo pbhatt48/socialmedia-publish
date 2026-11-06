@@ -132,3 +132,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Patient opportunism, waiting for bargains, is often your best strategy." — Howard Marks
 - "Predicting rain doesn’t count; building arks does." — Warren Buffett
 - "One lucky break, or one supremely shrewd decision—can we tell them apart?—may count for more than a lifetime of journeyman efforts." — Benjamin Graham
+- "We do not measure the economic significance or performance of Berkshire by its size; we measure by per-share progress." — Warren Buffett

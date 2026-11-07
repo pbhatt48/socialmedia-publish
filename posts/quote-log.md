@@ -134,3 +134,4 @@ each new post: `- "<quote>" — <Name>`.
 - "One lucky break, or one supremely shrewd decision—can we tell them apart?—may count for more than a lifetime of journeyman efforts." — Benjamin Graham
 - "We do not measure the economic significance or performance of Berkshire by its size; we measure by per-share progress." — Warren Buffett
 - "The wise ones bet heavily when the world offers them that opportunity. They bet big when they have the odds. And the rest of the time, they don’t. It’s just that simple." — Charlie Munger
+- "We also believe candor benefits us as managers: The CEO who misleads others in public may eventually mislead himself in private." — Warren Buffett

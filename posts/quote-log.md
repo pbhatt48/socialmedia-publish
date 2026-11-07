@@ -135,3 +135,4 @@ each new post: `- "<quote>" — <Name>`.
 - "We do not measure the economic significance or performance of Berkshire by its size; we measure by per-share progress." — Warren Buffett
 - "The wise ones bet heavily when the world offers them that opportunity. They bet big when they have the odds. And the rest of the time, they don’t. It’s just that simple." — Charlie Munger
 - "We also believe candor benefits us as managers: The CEO who misleads others in public may eventually mislead himself in private." — Warren Buffett
+- "Insiders might sell their shares for any number of reasons, but they buy them for only one: they think the price will rise." — Peter Lynch

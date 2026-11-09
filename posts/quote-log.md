@@ -138,3 +138,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Insiders might sell their shares for any number of reasons, but they buy them for only one: they think the price will rise." — Peter Lynch
 - "Don’t quibble over eighths and quarters." — Philip A. Fisher
 - "Investors should remember that their scorecard is not computed using Olympic-diving methods: Degree-of-difficulty doesn’t count." — Warren Buffett
+- "The investor who permits himself to be stampeded or unduly worried by unjustified market declines in his holdings is perversely transforming his basic advantage into a basic disadvantage." — Benjamin Graham

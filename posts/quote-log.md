@@ -141,3 +141,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The investor who permits himself to be stampeded or unduly worried by unjustified market declines in his holdings is perversely transforming his basic advantage into a basic disadvantage." — Benjamin Graham
 - "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?" — Warren Buffett
 - "An investor who has all the answers doesn’t even understand all the questions." — Sir John Templeton
+- "Volatility is far from synonymous with risk. Popular formulas that equate the two terms lead students, investors and CEOs astray." — Warren Buffett

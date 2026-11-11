@@ -143,3 +143,4 @@ each new post: `- "<quote>" — <Name>`.
 - "An investor who has all the answers doesn’t even understand all the questions." — Sir John Templeton
 - "Volatility is far from synonymous with risk. Popular formulas that equate the two terms lead students, investors and CEOs astray." — Warren Buffett
 - "If your behavior and that of your managers is conventional, you’re likely to get conventional results – either good or bad." — Howard Marks
+- "In a difficult business, no sooner is one problem solved than another surfaces – never is there just one cockroach in the kitchen." — Warren Buffett

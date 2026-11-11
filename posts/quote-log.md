@@ -142,3 +142,4 @@ each new post: `- "<quote>" — <Name>`.
 - "References to EBITDA make us shudder — does management think the tooth fairy pays for capital expenditures?" — Warren Buffett
 - "An investor who has all the answers doesn’t even understand all the questions." — Sir John Templeton
 - "Volatility is far from synonymous with risk. Popular formulas that equate the two terms lead students, investors and CEOs astray." — Warren Buffett
+- "If your behavior and that of your managers is conventional, you’re likely to get conventional results – either good or bad." — Howard Marks

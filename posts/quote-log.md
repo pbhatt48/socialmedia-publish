@@ -144,3 +144,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Volatility is far from synonymous with risk. Popular formulas that equate the two terms lead students, investors and CEOs astray." — Warren Buffett
 - "If your behavior and that of your managers is conventional, you’re likely to get conventional results – either good or bad." — Howard Marks
 - "In a difficult business, no sooner is one problem solved than another surfaces – never is there just one cockroach in the kitchen." — Warren Buffett
+- "In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time — none, zero." — Charlie Munger

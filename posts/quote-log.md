@@ -146,3 +146,4 @@ each new post: `- "<quote>" — <Name>`.
 - "In a difficult business, no sooner is one problem solved than another surfaces – never is there just one cockroach in the kitchen." — Warren Buffett
 - "In my whole life, I have known no wise people (over a broad subject matter area) who didn’t read all the time — none, zero." — Charlie Munger
 - "I learned to go into business only with people whom I like, trust, and admire." — Warren Buffett
+- "Invest in the copycats rather than the innovators." — Mohnish Pabrai

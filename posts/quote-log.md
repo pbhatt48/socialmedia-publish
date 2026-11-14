@@ -148,3 +148,4 @@ each new post: `- "<quote>" — <Name>`.
 - "I learned to go into business only with people whom I like, trust, and admire." — Warren Buffett
 - "Invest in the copycats rather than the innovators." — Mohnish Pabrai
 - "The supreme irony of business management is that it is far easier for an inadequate CEO to keep his job than it is for an inadequate subordinate." — Warren Buffett
+- "Investing without research is like playing stud poker and never looking at the cards." — Peter Lynch

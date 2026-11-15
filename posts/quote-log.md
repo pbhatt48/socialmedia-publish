@@ -151,3 +151,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Investing without research is like playing stud poker and never looking at the cards." — Peter Lynch
 - "Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices." — Warren Buffett
 - "Wall Street sometimes gets confused between risk and uncertainty, and you can profit handsomely from that confusion." — Mohnish Pabrai
+- "I thought then that decent, intelligent, and experienced managers would automatically make rational business decisions. But I learned over time that isn’t so. Instead, rationality frequently wilts when the institutional imperative comes into play." — Warren Buffett

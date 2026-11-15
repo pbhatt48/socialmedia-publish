@@ -150,3 +150,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The supreme irony of business management is that it is far easier for an inadequate CEO to keep his job than it is for an inadequate subordinate." — Warren Buffett
 - "Investing without research is like playing stud poker and never looking at the cards." — Peter Lynch
 - "Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices." — Warren Buffett
+- "Wall Street sometimes gets confused between risk and uncertainty, and you can profit handsomely from that confusion." — Mohnish Pabrai

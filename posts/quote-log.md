@@ -153,3 +153,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Wall Street sometimes gets confused between risk and uncertainty, and you can profit handsomely from that confusion." — Mohnish Pabrai
 - "I thought then that decent, intelligent, and experienced managers would automatically make rational business decisions. But I learned over time that isn’t so. Instead, rationality frequently wilts when the institutional imperative comes into play." — Warren Buffett
 - "You can’t eat IRR." — Howard Marks
+- "The formula for valuing all assets that are purchased for financial gain has been unchanged since it was first laid out by a very smart man in about 600 B.C. (though he wasn’t smart enough to know it was 600 B.C.)" — Warren Buffett

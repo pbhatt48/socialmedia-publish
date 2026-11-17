@@ -155,3 +155,4 @@ each new post: `- "<quote>" — <Name>`.
 - "You can’t eat IRR." — Howard Marks
 - "The formula for valuing all assets that are purchased for financial gain has been unchanged since it was first laid out by a very smart man in about 600 B.C. (though he wasn’t smart enough to know it was 600 B.C.)" — Warren Buffett
 - "Look down, not up, when making your initial investment decision. If you don’t lose money, most of the remaining alternatives are good ones." — Joel Greenblatt
+- "We’ve observed many kisses but very few miracles." — Warren Buffett

@@ -157,3 +157,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Look down, not up, when making your initial investment decision. If you don’t lose money, most of the remaining alternatives are good ones." — Joel Greenblatt
 - "We’ve observed many kisses but very few miracles." — Warren Buffett
 - "Don’t buy on tips or for a quick move. Let the professionals do that, if they can." — Walter Schloss
+- "Don’t ask the barber whether you need a haircut." — Warren Buffett

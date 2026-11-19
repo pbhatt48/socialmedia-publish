@@ -158,3 +158,4 @@ each new post: `- "<quote>" — <Name>`.
 - "We’ve observed many kisses but very few miracles." — Warren Buffett
 - "Don’t buy on tips or for a quick move. Let the professionals do that, if they can." — Walter Schloss
 - "Don’t ask the barber whether you need a haircut." — Warren Buffett
+- "Choosing individual stocks without any idea of what you’re looking for is like running through a dynamite factory with a burning match. You may live, but you’re still an idiot." — Joel Greenblatt

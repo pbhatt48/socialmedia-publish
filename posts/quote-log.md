@@ -160,3 +160,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Don’t ask the barber whether you need a haircut." — Warren Buffett
 - "Choosing individual stocks without any idea of what you’re looking for is like running through a dynamite factory with a burning match. You may live, but you’re still an idiot." — Joel Greenblatt
 - "It’s better to have a partial interest in the Hope Diamond than to own all of a rhinestone." — Warren Buffett
+- "Earnings can change dramatically in a short time. Usually assets change slowly." — Walter Schloss

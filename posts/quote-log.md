@@ -161,3 +161,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Choosing individual stocks without any idea of what you’re looking for is like running through a dynamite factory with a burning match. You may live, but you’re still an idiot." — Joel Greenblatt
 - "It’s better to have a partial interest in the Hope Diamond than to own all of a rhinestone." — Warren Buffett
 - "Earnings can change dramatically in a short time. Usually assets change slowly." — Walter Schloss
+- "Accounting consequences do not influence our operating or capital-allocation decisions." — Warren Buffett

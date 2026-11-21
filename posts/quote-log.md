@@ -163,3 +163,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Earnings can change dramatically in a short time. Usually assets change slowly." — Walter Schloss
 - "Accounting consequences do not influence our operating or capital-allocation decisions." — Warren Buffett
 - "The best stock to buy may be the one you already own." — Peter Lynch
+- "The investor who says, ‘This time is different,’ when in fact it’s virtually a repeat of an earlier situation, has uttered among the four most costly words in the annals of investing." — Sir John Templeton

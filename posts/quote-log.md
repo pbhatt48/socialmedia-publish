@@ -162,3 +162,4 @@ each new post: `- "<quote>" — <Name>`.
 - "It’s better to have a partial interest in the Hope Diamond than to own all of a rhinestone." — Warren Buffett
 - "Earnings can change dramatically in a short time. Usually assets change slowly." — Walter Schloss
 - "Accounting consequences do not influence our operating or capital-allocation decisions." — Warren Buffett
+- "The best stock to buy may be the one you already own." — Peter Lynch

@@ -164,3 +164,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Accounting consequences do not influence our operating or capital-allocation decisions." — Warren Buffett
 - "The best stock to buy may be the one you already own." — Peter Lynch
 - "The investor who says, ‘This time is different,’ when in fact it’s virtually a repeat of an earlier situation, has uttered among the four most costly words in the annals of investing." — Sir John Templeton
+- "A horse that can count to ten is a remarkable horse — not a remarkable mathematician. Likewise, a textile company that allocates capital brilliantly within its industry is a remarkable textile company — but not a remarkable business." — Warren Buffett

@@ -166,3 +166,4 @@ each new post: `- "<quote>" — <Name>`.
 - "The investor who says, ‘This time is different,’ when in fact it’s virtually a repeat of an earlier situation, has uttered among the four most costly words in the annals of investing." — Sir John Templeton
 - "A horse that can count to ten is a remarkable horse — not a remarkable mathematician. Likewise, a textile company that allocates capital brilliantly within its industry is a remarkable textile company — but not a remarkable business." — Warren Buffett
 - "Most investors strive fruitlessly for certainty and precision, avoiding situations in which information is difficult to obtain. Yet high uncertainty is frequently accompanied by low prices." — Seth Klarman
+- "Inactivity strikes us as intelligent behavior." — Warren Buffett

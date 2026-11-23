@@ -167,3 +167,4 @@ each new post: `- "<quote>" — <Name>`.
 - "A horse that can count to ten is a remarkable horse — not a remarkable mathematician. Likewise, a textile company that allocates capital brilliantly within its industry is a remarkable textile company — but not a remarkable business." — Warren Buffett
 - "Most investors strive fruitlessly for certainty and precision, avoiding situations in which information is difficult to obtain. Yet high uncertainty is frequently accompanied by low prices." — Seth Klarman
 - "Inactivity strikes us as intelligent behavior." — Warren Buffett
+- "Diversify. In stocks and bonds, as in much else, there is safety in numbers." — Sir John Templeton

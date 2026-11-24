@@ -169,3 +169,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Inactivity strikes us as intelligent behavior." — Warren Buffett
 - "Diversify. In stocks and bonds, as in much else, there is safety in numbers." — Sir John Templeton
 - "It’s extraordinary to me that the idea of buying dollar bills for 40 cents takes immediately with people or it doesn’t take at all. It’s like an inoculation." — Warren Buffett
+- "Bull markets are born on pessimism, grow on skepticism, mature on optimism and die on euphoria." — Sir John Templeton

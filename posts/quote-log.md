@@ -168,3 +168,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Most investors strive fruitlessly for certainty and precision, avoiding situations in which information is difficult to obtain. Yet high uncertainty is frequently accompanied by low prices." — Seth Klarman
 - "Inactivity strikes us as intelligent behavior." — Warren Buffett
 - "Diversify. In stocks and bonds, as in much else, there is safety in numbers." — Sir John Templeton
+- "It’s extraordinary to me that the idea of buying dollar bills for 40 cents takes immediately with people or it doesn’t take at all. It’s like an inoculation." — Warren Buffett

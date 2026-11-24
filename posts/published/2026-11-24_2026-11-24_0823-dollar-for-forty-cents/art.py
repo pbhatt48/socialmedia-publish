@@ -45,25 +45,6 @@ def build():
     for x, lab in ((lx, "VALUE  $1.00"), (rx, "PRICE  $0.40")):
         out.append(f'<text x="{x:.1f}" y="{ground+40}" text-anchor="middle" font-family="Inter" font-size="13" letter-spacing="3" fill="#8a8578">{lab}</text>')
         out.append(f'<line x1="{x:.1f}" y1="{ground+6}" x2="{x:.1f}" y2="{ground+14}" stroke="{GOLD}" stroke-opacity=".5"/>')
-    return by
-    drop = 150
-    lb = pan(lx, ly, drop)
-    rb = pan(rx, ry, drop)
-    # dollar bill on left pan (value)
-    bw, bh = 104, 46
-    bx, byy = lx - bw/2, lb - bh - 2
-    out.append(f'<rect x="{bx:.1f}" y="{byy:.1f}" width="{bw}" height="{bh}" rx="3" stroke="{GOLD}" stroke-width="1.3" fill="{GOLD}" fill-opacity=".08"/>')
-    out.append(f'<rect x="{bx+5:.1f}" y="{byy+5:.1f}" width="{bw-10}" height="{bh-10}" rx="2" stroke="{GOLD}" stroke-opacity=".4" stroke-width=".8" fill="none"/>')
-    out.append(f'<ellipse cx="{lx:.1f}" cy="{byy+bh/2:.1f}" rx="13" ry="15" stroke="{GOLD}" stroke-opacity=".7" stroke-width="1" fill="none"/>')
-    out.append(f'<text x="{lx:.1f}" y="{byy+bh/2+5:.1f}" text-anchor="middle" font-family="Inter" font-size="14" fill="{GOLD}">1</text>')
-    # 40c on right pan: four small coins stacked
-    for i in range(4):
-        cy = rb - 6 - i*7
-        out.append(f'<ellipse cx="{rx:.1f}" cy="{cy:.1f}" rx="22" ry="5.5" stroke="{GOLD}" stroke-opacity="{0.55+0.1*i:.2f}" stroke-width="1.1" fill="#0f0e0c"/>')
-    # labels
-    for x, lab in ((lx, "VALUE  $1.00"), (rx, "PRICE  $0.40")):
-        out.append(f'<text x="{x:.1f}" y="{ground+40}" text-anchor="middle" font-family="Inter" font-size="13" letter-spacing="3" fill="#8a8578">{lab}</text>')
-        out.append(f'<line x1="{x:.1f}" y1="{ground+6}" x2="{x:.1f}" y2="{ground+14}" stroke="{GOLD}" stroke-opacity=".5"/>')
     # faint margin-of-safety bracket
     out.append(f'<path d="M{rx+96:.1f},{lb-20:.1f} L{rx+104:.1f},{lb-20:.1f} L{rx+104:.1f},{rb-30:.1f} L{rx+96:.1f},{rb-30:.1f}" stroke="{GOLD}" stroke-opacity=".35" stroke-width="1" fill="none"/>')
     return "".join(out)

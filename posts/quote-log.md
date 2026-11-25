@@ -170,3 +170,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Diversify. In stocks and bonds, as in much else, there is safety in numbers." — Sir John Templeton
 - "It’s extraordinary to me that the idea of buying dollar bills for 40 cents takes immediately with people or it doesn’t take at all. It’s like an inoculation." — Warren Buffett
 - "Bull markets are born on pessimism, grow on skepticism, mature on optimism and die on euphoria." — Sir John Templeton
+- "With few exceptions, when a management with a reputation for brilliance tackles a business with a reputation for poor fundamental economics, it is the reputation of the business that remains intact." — Warren Buffett

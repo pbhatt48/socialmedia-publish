@@ -173,3 +173,4 @@ each new post: `- "<quote>" — <Name>`.
 - "With few exceptions, when a management with a reputation for brilliance tackles a business with a reputation for poor fundamental economics, it is the reputation of the business that remains intact." — Warren Buffett
 - "Opportunity cost is a huge filter in life." — Charlie Munger
 - "In the world of securities, courage becomes the supreme virtue after adequate knowledge and a tested judgment are at hand." — Benjamin Graham
+- "In a bull market, one must avoid the error of the preening duck that quacks boastfully after a torrential rainstorm, thinking that its paddling skills have caused it to rise in the world." — Warren Buffett

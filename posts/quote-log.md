@@ -172,3 +172,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Bull markets are born on pessimism, grow on skepticism, mature on optimism and die on euphoria." — Sir John Templeton
 - "With few exceptions, when a management with a reputation for brilliance tackles a business with a reputation for poor fundamental economics, it is the reputation of the business that remains intact." — Warren Buffett
 - "Opportunity cost is a huge filter in life." — Charlie Munger
+- "In the world of securities, courage becomes the supreme virtue after adequate knowledge and a tested judgment are at hand." — Benjamin Graham

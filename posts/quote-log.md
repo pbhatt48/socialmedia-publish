@@ -174,3 +174,4 @@ each new post: `- "<quote>" — <Name>`.
 - "Opportunity cost is a huge filter in life." — Charlie Munger
 - "In the world of securities, courage becomes the supreme virtue after adequate knowledge and a tested judgment are at hand." — Benjamin Graham
 - "In a bull market, one must avoid the error of the preening duck that quacks boastfully after a torrential rainstorm, thinking that its paddling skills have caused it to rise in the world." — Warren Buffett
+- "You won’t improve results by pulling out the flowers and watering the weeds." — Peter Lynch

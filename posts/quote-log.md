@@ -176,3 +176,4 @@ each new post: `- "<quote>" — <Name>`.
 - "In a bull market, one must avoid the error of the preening duck that quacks boastfully after a torrential rainstorm, thinking that its paddling skills have caused it to rise in the world." — Warren Buffett
 - "You won’t improve results by pulling out the flowers and watering the weeds." — Peter Lynch
 - "In 58 years of Berkshire management, most of my capital-allocation decisions have been no better than so-so." — Warren Buffett
+- "The speculator’s primary interest lies in anticipating and profiting from market fluctuations. The investor’s primary interest lies in acquiring and holding suitable securities at suitable prices." — Benjamin Graham
